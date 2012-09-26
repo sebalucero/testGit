@@ -1,4 +1,4 @@
 testGit
 =======
 
-This us my test
+This is my test
